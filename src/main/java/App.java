@@ -15,8 +15,10 @@ public class App {
         System.out.println("gv");
         System.out.println(bean.equals(bean1));
         System.out.println(cat.equals(cat1));
-        System.out.println(bean==bean1);
-        System.out.println(cat==cat1);
+     /*   System.out.println(bean==bean1);
+        System.out.println(cat==cat1);*/
+
+
 
     }
 }
