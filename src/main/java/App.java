@@ -14,6 +14,6 @@ public class App {
         System.out.println(bean.getMessage());
         System.out.println("gv");
         System.out.println(bean.equals(bean1));
-
+        System.out.println(cat.equals(cat1));
     }
 }
